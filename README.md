@@ -45,6 +45,8 @@
 &nbsp;
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40"/> </a>  
 &nbsp;
+<a href="https://www.php.com/" target="_blank"> <img src="https://raw.githubusercontent.com/MalaviyaKamal/svg-logos/1363cd7036c2b4dcfb36c480de46259e37f5c319/php.svg" alt="mysql" width="40" height="40"/> </a>  
+&nbsp;
 <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="35" height="35"/> </a>
 </p>
 
