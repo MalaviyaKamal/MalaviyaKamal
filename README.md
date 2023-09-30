@@ -3,6 +3,11 @@
 <h1 align="center">Hello My name is Kamal Malaviya</h1>
 <br />
 &nbsp;
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kathan0611&label=Profile%20views&color=0e75b6&style=flat" alt="kathan0611" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kathan0611" alt="kathan0611" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/https://twitter.com/adalajakathan83" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/adalajakathan83?logo=twitter&style=for-the-badge" alt="https://twitter.com/adalajakathan83" /></a> </p>
 
 
 <br />
