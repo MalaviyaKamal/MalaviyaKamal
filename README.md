@@ -1,7 +1,7 @@
 <p align="center">
 </p>
 <h1 align="center">Hello My name is Kamal Malaviya</h1>
-<br />&nbsp;
+<br />
 <h3 align="center">A passionate frontend developer from India</h3>
 &nbsp;
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kathan0611&label=Profile%20views&color=0e75b6&style=flat" alt="MalaviyaKamal" /> </p>
