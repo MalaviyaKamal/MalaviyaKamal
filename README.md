@@ -33,29 +33,12 @@
 <h2 align="left"> Language And Tools Skills: </h2>
 <p align="left">
   
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/c.svg" alt="C" width="35" height="35"/> </a>
-&nbsp;
-<a href="https://www.java.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="45" height="40"/> </a>
-&nbsp;
-<a href="https://www.python.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="35" height="35"/> </a>
-&nbsp;
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="35" height="35"/> </a> 
-&nbsp;
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="35" height="35"/> </a>
-&nbsp;
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40"/> </a>  
-&nbsp;
-<a href="https://www.php.com/" target="_blank"> <img src="https://raw.githubusercontent.com/MalaviyaKamal/svg-logos/1363cd7036c2b4dcfb36c480de46259e37f5c319/php.svg" alt="mysql" width="40" height="40"/> </a>  
-&nbsp;
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
 &nbsp;
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
-&nbsp;
+
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 &nbsp;
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-&nbsp;
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 &nbsp;
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 &nbsp;
@@ -80,7 +63,9 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 &nbsp;
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-          
+&nbsp;     
+<a href="https://www.php.com/" target="_blank"> <img src="https://raw.githubusercontent.com/MalaviyaKamal/svg-logos/1363cd7036c2b4dcfb36c480de46259e37f5c319/php.svg" alt="mysql" width="40" height="40"/> </a>  
+&nbsp;        
   </p>
 
 
