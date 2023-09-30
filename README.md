@@ -60,5 +60,13 @@
 </p>
 
 <br />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MalaviyaKamal&show_icons=true&locale=en&layout=compact" alt="MalaviyaKamal" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MalaviyaKamal&show_icons=true&locale=en" alt="MalaviyaKamal" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MalaviyaKamal&" alt="MalaviyaKamal" /></p>
+
+
+<br />
 <h2 align="left"> Github  </h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MalaviyaKamal&show_icons=true&locale=en&layout=extended&langs_count=8" alt="Kamal Malaviya" /></p>
