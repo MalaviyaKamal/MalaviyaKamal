@@ -17,10 +17,10 @@
 <br />
 <h2 align="left"> Connect with me: </h2>
 <p align="left">
-<a href="https://twitter.com/kamalmalaviya" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Kamal Malaviya" height="30" width="30"/> </a>
-<a href="#" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="Kamal Malaviya" height="30" width="30"/> </a>
-<a href="https://www.instagram.com/kamalmalaviya/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Kamal Malaviya" height="30" width="30"/> </a>
-<a href="https://github.com/MalaviyaKamal" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Kamal Malaviya" height="30" width="30"/> </a>
+<a href="https://twitter.com/kamalmalaviya" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Kamal Malaviya" height="30" width="30"/></a>&nbsp; &nbsp;
+<a href="#" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="Kamal Malaviya" height="30" width="30"/></a>&nbsp; &nbsp;
+<a href="https://www.instagram.com/kamalmalaviya/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Kamal Malaviya" height="30" width="30"/></a>&nbsp; &nbsp;
+<a href="https://github.com/MalaviyaKamal" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Kamal Malaviya" height="30" width="30"/></a>&nbsp; &nbsp;
 </p>
 <br />
 <h2 align="left"> Language And Tools Skills: </h2>
