@@ -38,6 +38,8 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>&nbsp;&nbsp;
 <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.postgresql.org/docs/current/sql.html" target="_blank" rel="noreferrer"> <img src="https://www.postgresql.org/docs/current/sql.html" alt="postgresql" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://sqlitebrowser.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="sqllite" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
   &nbsp;&nbsp;
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
@@ -52,7 +54,7 @@
   &nbsp;&nbsp;
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
   &nbsp;&nbsp;
-<a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"> <img src="https://www.django-rest-framework.org/img/logo.png" alt="rest-framework" width="40" height="40"/> </a>&nbsp;&nbsp;
+<a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"> <img src="https://www.django-rest-framework.org/img/logo.png" alt="rest-framework" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>&nbsp;&nbsp;
 </p>
