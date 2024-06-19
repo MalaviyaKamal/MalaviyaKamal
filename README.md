@@ -10,7 +10,7 @@
 
 🌱  I'm on track for learning exciting things.
 
-💬 Ask me about React js
+💬 Ask me about React js,nextjs,django,flask
 
 📫 How to reach me: kamalmalaviya77@gmail.com
 
